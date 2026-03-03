@@ -53,4 +53,3 @@ Once authenticated, you can:
 <img width="536" height="240" alt="Swagger Auth Dialog" src="https://github.com/user-attachments/assets/fb51647e-1834-467d-b672-01c073592535" />
 
 ---
-
