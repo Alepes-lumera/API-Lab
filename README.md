@@ -23,7 +23,7 @@ From there, you can register users, log in, and interact with protected routes b
 
 ---
 
-## Swagger
+## Swaggers
 
 **Swagger Documentation:**  
 https://drink-catalog-czts.onrender.com/api-docs
